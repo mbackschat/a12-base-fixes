@@ -1,7 +1,7 @@
 # Run `gradle versionCatalogUpdate --interactive` to update this file
 [versions]
-build-utilities = "0.7.0"
-integration = "0.1.11"
+build-utilities = "0.5.0"
+integration = "0.1.8"
 # Gradle plugins (third-party)
 cyclonedx = "3.2.4"
 spotbugs = "6.5.5"
